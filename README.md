@@ -46,8 +46,9 @@
 
 # Mockup дашборда
 ![Mockup.JPG](https://raw.githubusercontent.com/laptev512/Power_BI_Sale_on_the_WB/main/Mockup.JPG)
-
+# Дашборд
+![Представление дашборда](https://raw.githubusercontent.com/laptev512/Power_BI_Sale_on_the_WB/main/Dashboar_sales_WB.JPG)
 
 Ознакомиться с файлом решения тут:
-[recommendation_system](delivery_application.ipynb)
+https://drive.google.com/file/d/1pFPfgbniu8u2Yi4zkfa27JVQ63QBfJgd/view?usp=drive_link
 --------------------
